@@ -1,0 +1,28 @@
+body{
+	margin:0;
+	padding: 0; 
+	color:white;
+	background:url(https://www.planwallpaper.com/static/images/blue-abstract-glass-balls.jpg);
+	background-size:cover;
+    color:red;
+    font-family: arial;
+}
+
+#portal{
+
+    border-radius: 2%;
+    width:25%;
+    height:500px;
+    margin-top: -6%;
+    margin-left:0%;
+	
+	background-color: rgba(0,0,0,.9);
+   
+
+}
+
+#button{
+	margin-top: 45px;
+	border-radius: 25px;
+}
+
